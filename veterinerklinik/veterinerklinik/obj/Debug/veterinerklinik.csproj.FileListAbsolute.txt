@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\bin\Debug\veterinerklinik.exe.config
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\bin\Debug\veterinerklinik.exe
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\bin\Debug\veterinerklinik.pdb
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\obj\Debug\veterinerklinik.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\obj\Debug\veterinerklinik.Form1.resources
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\obj\Debug\veterinerklinik.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\obj\Debug\veterinerklinik.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\obj\Debug\veterinerklinik.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\obj\Debug\veterinerklinik.exe
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\obj\Debug\veterinerklinik.pdb
+C:\Users\pc\OneDrive\Desktop\Veteriner klinik\veterinerklinik\veterinerklinik\obj\Debug\veterinerklinik.exe.config
